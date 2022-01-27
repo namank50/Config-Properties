@@ -1,0 +1,7 @@
+my:
+  greeting:Hello World from properties file
+
+db:
+  host:127.0.0.
+  port:1200
+  connection:Connecting-string
